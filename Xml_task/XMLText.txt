@@ -1,0 +1,178 @@
+hardware:
+
+CPUs:
+
+CPU:
+
+name:
+
+     Intel Core i5 10400F
+
+price:
+
+     165.00
+
+CPU:
+
+name:
+
+     Intel Core i5 11400F
+
+price:
+
+     173.00
+
+CPU:
+
+name:
+
+     Intel Core i3 10100F
+
+price:
+
+     107.00
+
+CPU:
+
+name:
+
+     AMD Ryzen 5 3600
+
+price:
+
+     199.00
+
+CPU:
+
+name:
+
+     AMD Ryzen 5 2600
+
+price:
+
+     246.37
+
+CPU:
+
+name:
+
+     AMD Ryzen 7 4700G
+
+price:
+
+     239.99
+
+GCards:
+
+Graphics_Card:
+
+name:
+
+     ASUS NVIDIA GeForce GTX 1660 Ti TUF EVO Overclocked
+
+price:
+
+     229.99
+
+Graphics_Card:
+
+name:
+
+     MSI NVIDIA GeForce GTX 1650 Ventus XS Overclocked
+
+price:
+
+     220.99
+
+Graphics_Card:
+
+name:
+
+     Gigabyte NVIDIA GeForce RTX 3060 Ti EAGLE Overclocked
+
+price:
+
+     449.99
+
+Graphics_Card:
+
+name:
+
+     Visiontek AMD Radeon RX 560
+
+price:
+
+     199.99
+
+Graphics_Card:
+
+name:
+
+     Sapphire Technology AMD Radeon RX 5700 XT Nitro Plus
+
+price:
+
+     338.39
+
+Graphics_Card:
+
+name:
+
+     ASUS AMD Radeon RX 6500 XT Dual Overclocked
+
+price:
+
+     229.99
+
+SSDs:
+
+SSD:
+
+name:
+
+     Samsung 970 EVO Plus SSD 2TB M.2 NVMe
+
+price:
+
+     189.99
+
+SSD:
+
+name:
+
+     Samsung 980 Pro SSD 1TB M.2 NVMe
+
+price:
+
+     129.99
+
+SSD:
+
+name:
+
+     Inland Professional 512GB SSD
+
+price:
+
+     24.99
+
+SSD:
+
+name:
+
+     Seagate IronWolf 125 4TB SSD
+
+price:
+
+     579.99
+
+SSD:
+
+name:
+
+     WD Black SN850X 1TB NVMe M.2
+
+price:
+
+     119.99
+

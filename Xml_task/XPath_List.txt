@@ -1,0 +1,5 @@
+child::*
+//CPU/name|//Graphics_Card/name|//SSD/name
+//CPU[price>200]|//Graphics_Card[price>200]|//SSD[price>200]
+//CPU[@on_sale='true']|//Graphics_Card[@on_sale='true']|//SSD[@on_sale='true']
+//CPU[1]|//Graphics_Card[1]|//SSD[1]

@@ -1,0 +1,12 @@
+Element -> CPU -> 
+			Intel Core i5 10400F
+			165.00
+		
+Element -> Graphics_Card -> 
+			ASUS NVIDIA GeForce GTX 1660 Ti TUF EVO Overclocked
+			229.99
+		
+Element -> SSD -> 
+			Samsung 970 EVO Plus SSD 2TB M.2 NVMe
+			189.99
+		

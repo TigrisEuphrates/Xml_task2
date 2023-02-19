@@ -1,0 +1,32 @@
+Element -> CPU -> 
+			Intel Core i5 10400F
+			165.00
+		
+Element -> CPU -> 
+			AMD Ryzen 5 2600
+			246.37
+		
+Element -> CPU -> 
+			AMD Ryzen 7 4700G
+			239.99
+		
+Element -> Graphics_Card -> 
+			ASUS NVIDIA GeForce GTX 1660 Ti TUF EVO Overclocked
+			229.99
+		
+Element -> Graphics_Card -> 
+			Gigabyte NVIDIA GeForce RTX 3060 Ti EAGLE Overclocked
+			449.99
+		
+Element -> SSD -> 
+			Samsung 970 EVO Plus SSD 2TB M.2 NVMe
+			189.99
+		
+Element -> SSD -> 
+			Samsung 980 Pro SSD 1TB M.2 NVMe
+			129.99
+		
+Element -> SSD -> 
+			Inland Professional 512GB SSD
+			24.99
+		
